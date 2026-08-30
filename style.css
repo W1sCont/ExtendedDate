@@ -1,0 +1,32 @@
+body{
+    display: grid;
+    place-items: center;
+    background-color: rgb(109, 236, 111);
+}
+.div1 {
+    margin-top: 150px;
+    display: grid;
+    place-items: center;
+    width: 500px;
+    min-height: 200px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: rgb(25, 218, 38);
+}
+
+.inptDate {
+    display: block;
+    margin: 10px;
+}
+
+.result {
+    width: 300px;
+    height: 70px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
+
+.buttons {
+    text-align: center;
+}
